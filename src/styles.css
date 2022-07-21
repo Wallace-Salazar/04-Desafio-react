@@ -20,13 +20,14 @@ html {
 ::-webkit-scrollbar-thumb {
   background: rgb(255, 0, 43);
 }
+
 body {
   background-image: url("https://ourimagehosting.com/images/2022/07/19/250581.webp");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
   padding: 2rem;
-  cursor: crosshair;
+  cursor: none;
 }
 li {
   font-size: 20px;
